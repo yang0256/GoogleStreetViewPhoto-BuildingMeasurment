@@ -1,0 +1,24 @@
+Here's a general outline of the steps involved:
+
+1) Use the Google Maps API to retrieve the Street View photo of the building. need google developer account and request API key
+
+2) need to provide the latitude and longitude of Ottawa neighborhood and radius, x kilmeters
+
+3) Pre-process the image: Clean up the image by removing any distracting elements, such as cars or people, and enhancing the visibility of the building itself. 
+This can be done using techniques such as image thresholding or morphological operations.
+
+4)Detect features: Use computer vision techniques to detect features of the building, such as its walls, windows, and doors. 
+This can be done using techniques such as edge detection, contour analysis, or template matching.
+
+5)Extract measurements: Use the detected features to extract measurements of the building, such as its width and height, the size and position of its windows, and the size and position of its doors.
+question: does the camera len info affect the accuracy.
+
+6)To increase the accuracy of your results, you can validate the measurements by comparing them to known data, such as satellite images or public records data.
+
+
+This approach requires a good understanding of computer vision techniques and can be a complex and time-consuming process to implement. 
+the accuracy of the results will depend on the quality of the image and the complexity of the building, so results may vary.
+
+
+
+
