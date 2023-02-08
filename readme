@@ -1,6 +1,7 @@
 Here's a general outline of the steps involved:
 
 1) Use the Google Maps API to retrieve the Street View photo of the building. need google developer account and request API key
+https://developers.google.com/earth-engine/Earth_Engine_REST_API_compute_image
 
 2) need to provide the latitude and longitude of Ottawa neighborhood and radius, x kilmeters
 
