@@ -15,6 +15,7 @@ This can be done using techniques such as edge detection, contour analysis, or t
 question: does the camera len info affect the accuracy.
 
 6)To increase the accuracy of your results, you can validate the measurements by comparing them to known data, such as satellite images or public records data.
+google map pro can give height of the building if provided with property address
 
 
 This approach requires a good understanding of computer vision techniques and can be a complex and time-consuming process to implement. 
